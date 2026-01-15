@@ -1,6 +1,3 @@
-# Active-Fin-Stabilization-ESP32
-Active fin stabilization system using ESP32, MPU6050, PID control, and servo-actuated fins.
-
 # 🚀 Active Fin Stabilization System using ESP32
 
 An embedded systems and control engineering project demonstrating real-time **active fin stabilization** using sensor feedback and closed-loop PID control.
@@ -42,4 +39,36 @@ This project implements an **Active Fin Stabilization System** that continuously
 ---
 
 ## 📂 Repository Structure
+
+
+---
+
+## 🔮 Future Enhancements
+- Thrust Vector Control (TVC) integration  
+- Dual active-fin stabilization system  
+- Multi-directional control for improved maneuverability  
+- RF-based long-range communication  
+- Dual-mode operation (air and water)  
+- 3D-printed structural components  
+- Infrared-based heat-seeking guidance (research-oriented)
+
+---
+
+## 👥 Team Members
+- Pruthvik S  
+- Pratik Jadhav  
+- Narendrababu N Bisleri  
+- Siddanth Bhatt  
+
+---
+
+## 🙏 Acknowledgements
+Guided by **Chaitanya L**, Assistant Professor  
+Department of Electrical and Electronics Engineering
+
+---
+
+## 📄 License
+This project is intended for academic and educational purposes only.
+
 

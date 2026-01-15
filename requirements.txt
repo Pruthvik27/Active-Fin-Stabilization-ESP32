@@ -1,1 +1,6 @@
+Ardunio IDE
+Embedded C
+Tkinter
+Pyserial
+Matplotlib
 

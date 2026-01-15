@@ -72,3 +72,13 @@ Department of Electrical and Electronics Engineering
 This project is intended for academic and educational purposes only.
 
 
+## 📂 Repository Structure
+
+- `code/esp32_firmware/` → ESP32 Arduino firmware
+- `code/pid_control/` → PID control logic
+- `ui/` → Python-based telemetry GUI
+- `circuit/` → Circuit diagrams
+- `docs/` → Project report
+
+
+
